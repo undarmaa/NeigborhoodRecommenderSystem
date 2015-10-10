@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="862172877">
+    <data-source source="LOCAL" name="recommendation" uuid="0ddda046-4f7b-497d-8c26-231511ff9f0e">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\PycharmProjects\Neigborhood_Recommender_System\data\recommendation.csv</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

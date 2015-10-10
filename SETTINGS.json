@@ -1,0 +1,4 @@
+{
+    "prediction_path": "./data/prediction.csv",
+    "predict_model":   "./models/predict_model.pickle"
+}
